@@ -1,0 +1,80 @@
+[33mcommit 12da502c0273035ba95a27fa194e8d8ebb604ff6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: mb-007 <mbrady07@syr.edu>
+Date:   Mon Feb 6 19:53:40 2023 -0600
+
+    skdf
+
+[33mcommit df931f5caacfe2628c98f9a472823d8e893a6555[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: b88ee6c c3dd356
+Author: mb-007 <mbrady07@syr.edu>
+Date:   Mon Feb 6 19:03:27 2023 -0600
+
+    Merge branch 'my_new_branch'
+
+[33mcommit b88ee6c8279ac905902bb96335f3361a36d20046[m
+Author: mb-007 <mbrady07@syr.edu>
+Date:   Mon Feb 6 18:59:17 2023 -0600
+
+    from main
+
+[33mcommit c3dd35655db3f50294b1811b20751006b13a8bbf[m[33m ([m[1;32mmy_new_branch[m[33m)[m
+Author: mb-007 <mbrady07@syr.edu>
+Date:   Mon Feb 6 18:57:54 2023 -0600
+
+    some other comment
+
+[33mcommit fac3956d612c1ce9772e9d19170aadb7297ea621[m
+Author: mb-007 <mbrady07@syr.edu>
+Date:   Mon Feb 6 18:51:47 2023 -0600
+
+     this is a descriptive comment about what happened
+
+[33mcommit 3e980948088605f149b894e664b0fd6a26ab3098[m
+Merge: 3efc845 f97adfd
+Author: mb-007 <mbrady07@syr.edu>
+Date:   Thu Feb 2 20:30:11 2023 -0600
+
+    Merge branch 'main' of https://github.com/mb-007/merge_demo
+
+[33mcommit f97adfd142f4b6ca964f8de38cfd52e8ba7ab89b[m
+Merge: f40bbe9 3dcb1da
+Author: mb-007 <114002499+mb-007@users.noreply.github.com>
+Date:   Thu Feb 2 20:28:05 2023 -0600
+
+    Merge pull request #1 from mb-007/my_new_branch
+    
+    test
+
+[33mcommit 3dcb1da514d3164aa2e4f14c6d7775c548d665da[m[33m ([m[1;31morigin/my_new_branch[m[33m)[m
+Author: mb-007 <mbrady07@syr.edu>
+Date:   Thu Feb 2 19:59:58 2023 -0600
+
+    test
+
+[33mcommit 3efc84517ce2c1e53fb2c535cf5de5d2bb302afb[m
+Author: mb-007 <mbrady07@syr.edu>
+Date:   Thu Feb 2 19:41:17 2023 -0600
+
+    new file on new branch
+
+[33mcommit 3422d3aa8355cf0e7ccdc62b61199a7faff39171[m
+Author: mb-007 <mbrady07@syr.edu>
+Date:   Thu Feb 2 19:40:12 2023 -0600
+
+    first commit
+
+[33mcommit f40bbe9d49d79d259f5ea5416c5d881d7a155e67[m
+Author: mb-007 <114002499+mb-007@users.noreply.github.com>
+Date:   Thu Feb 2 19:00:15 2023 -0600
+
+    Update .gitignore
+    
+    added
+    # DS_Store
+    .DS_Store
+
+[33mcommit 612a3cbabc6c7654c2fb6dcd4ecc8a420fc39851[m
+Author: mb-007 <114002499+mb-007@users.noreply.github.com>
+Date:   Thu Feb 2 18:59:14 2023 -0600
+
+    Initial commit
